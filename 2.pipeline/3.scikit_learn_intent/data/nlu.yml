@@ -17,14 +17,6 @@ nlu:
     - goodevening
     - good afternoon
 
-- intent: grade
-  examples: |
-    - find my grade
-    - my grade 
-    - grade 
-    - find my grade for math 
-    - math  grade 
-
 - intent: goodbye
   examples: |
     - good afternoon
